@@ -74,7 +74,7 @@ int main(int argc, char **argv) {
     }
 #endif
 
-    QCoreApplication::setApplicationName("Rosalie's Mupen GUI");
+    QCoreApplication::setApplicationName("IceHace's Modded Mupen GUI");
     QCoreApplication::setApplicationVersion(QString::fromStdString(CoreGetVersion()));
 
     QCommandLineParser parser;
