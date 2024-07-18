@@ -4,7 +4,7 @@
 #define MyAppName "IceHace's Modded Mupen GUI"
 #define MyAppPublisher "IceHace"
 #define MyAppURL "https://github.com/IceHacy/IMG"
-#define MyAppExeName "IMG.exe"
+#define MyAppExeName "RMG.exe"
 
 ; REQUIREMENTS:
 ; Specify MyAppDir, which should point to the binaries
